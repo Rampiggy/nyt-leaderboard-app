@@ -1,6 +1,5 @@
 /*
-    Below are some useful SELECT statements
-    to check the score data in the database.
+    Below are some useful SELECT statements to check the score data in the database.
 */
 
 -- Get all the scores
