@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace NytStrawhatLeaderboard.Pages;
+namespace NytStrawhatLeaderboard.WebApp.Pages;
 
 public class IndexModel : PageModel
 {
