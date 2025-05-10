@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NytStrawHatLeaderboard.WebApp", "NytStrawHatLeaderboard.WebApp\NytStrawHatLeaderboard.WebApp.csproj", "{95933439-0674-4238-8ED2-BB2798328399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NytStrawHatLeaderboard.Data", "NytStrawHatLeaderboard.Data\NytStrawHatLeaderboard.Data.csproj", "{8894A751-C99C-453B-92C0-5DC0844C30AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95933439-0674-4238-8ED2-BB2798328399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95933439-0674-4238-8ED2-BB2798328399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95933439-0674-4238-8ED2-BB2798328399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95933439-0674-4238-8ED2-BB2798328399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8894A751-C99C-453B-92C0-5DC0844C30AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8894A751-C99C-453B-92C0-5DC0844C30AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8894A751-C99C-453B-92C0-5DC0844C30AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8894A751-C99C-453B-92C0-5DC0844C30AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
